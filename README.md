@@ -34,7 +34,7 @@ El proyecto del curso es Consumir los datos de la API:
 ## 🔎 Deploy
 <div align="center">
   <h3>
-    <a href="https://bety2022.github.io/Proyecto-Fokus/" >
+    <a href="https://bety2022.github.io/SpaceApp/" >
       🔗 Visitar la Plataforma de SpaceApp
     </a>
 </div>
